@@ -1,0 +1,1 @@
+# genshin-fishing-ahk
